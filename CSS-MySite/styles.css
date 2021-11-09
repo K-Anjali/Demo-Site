@@ -11,6 +11,7 @@ body{
 }
 .middle-container{
     background-color:white;
+    width:fit-content;
 }
 .bottom-container{
     background-color:#66BFBF;
@@ -114,7 +115,6 @@ line-height: 2;
         text-align: center;
         margin:30px auto 30px auto;
      }
- }
  
  .btn:hover {
     border: solid #337FED 1px;
